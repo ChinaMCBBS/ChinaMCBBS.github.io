@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chinamcbbs.github.io/</id>
     <title>zhang</title>
-    <updated>2020-01-22T11:14:07.655Z</updated>
+    <updated>2020-01-22T11:31:41.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chinamcbbs.github.io/"/>
     <link rel="self" href="https://chinamcbbs.github.io//atom.xml"/>
@@ -18,13 +18,17 @@
         <updated>2020-01-22T10:33:24.000Z</updated>
         <summary type="html"><![CDATA[<p>安装clang编译器<br>
 安装vim编辑器或者使用Linux自带的nano（字符终端文本编辑器）<br>
-最后命令./a.out运行该可执行程序<br>
+最后命令./文件名（不带后缀）./a.out运行该可执行程序<br>
+注意：当执行vi命令创建文件时要带后缀。<br>
+gcc 文件名带后缀 -o 文件名不带后缀 与 clang 文件名带后缀 -o 文件名不带后缀 都可以<br>
 附带：https://ipcmen.com/nano（nano指令大全）<br>
 https://www.runoob.com/linux/linux-vim.html（vim指令大全）</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>安装clang编译器<br>
 安装vim编辑器或者使用Linux自带的nano（字符终端文本编辑器）<br>
-最后命令./a.out运行该可执行程序<br>
+最后命令./文件名（不带后缀）./a.out运行该可执行程序<br>
+注意：当执行vi命令创建文件时要带后缀。<br>
+gcc 文件名带后缀 -o 文件名不带后缀 与 clang 文件名带后缀 -o 文件名不带后缀 都可以<br>
 附带：https://ipcmen.com/nano（nano指令大全）<br>
 https://www.runoob.com/linux/linux-vim.html（vim指令大全）</p>
 <!-- more -->
